@@ -1,0 +1,52 @@
+/*=============== HEADER ===============*/
+.navbar {
+    width: 100%;
+    background-color:#0096FF;
+  }
+
+  /*==========Add Device======*/
+  .container{
+    margin-top: 8%;
+  }
+ 
+
+/* addhome */
+  .content {
+    max-width: 500px;
+    margin: auto;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background: #ecf0f3;
+    border-radius: 20px;
+    padding: 40px;
+    position: relative;
+    margin-top: 5%;
+}
+
+.ui button blue{
+background-color: yellow;
+position: center;
+}
+
+.ui main{
+background-color: grey;
+}
+
+/* card */
+
+.card-body{
+  background: #ecf0f3;
+  padding: 40px; 
+}
+
+.button{
+  display: inline-block;
+  cursor: pointer;
+ 
+}
+#btn2{
+  margin-left: 70px;
+}
+.button.left{
+  align-items: left;
+}
